@@ -1,5 +1,7 @@
 ## 👋 Hi there, I'm Joshua Yewman, but you can call me Josh! 
 
+### 🌱Who am I and what do I do?
+
 I'm a Computer Scientist / Information Security researcher. I studied Computer Science and then Information Security at Royal Holloway, University of London.
 
 I am the Space & Cyber Development Manager for the British Army @ the Ministry of Defence.
