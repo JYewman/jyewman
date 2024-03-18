@@ -30,4 +30,3 @@ If you're interested in collaborating on open source projects, have an idea or j
 - MoD Digital Email: [joshua.yewman@digital.mod.uk](mailto:joshua.yewman@digital.mod.uk)
 
 --- 
->>>>>>> 5649003 (Added initial readme)
