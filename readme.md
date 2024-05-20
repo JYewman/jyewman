@@ -14,7 +14,5 @@ If you're interested in collaborating on open source projects, have an idea or j
 --- 
 
 ## 🌌 How to reach me!
-
-- [Primary MoD Email](mailto:joshua.yewman100@mod.gov.uk)
 - [MoD Digital Email](mailto:joshua.yewman@digital.mod.uk) <-- Go for this one if you want to talk anything Dev!
 - [LinkedIn](https://www.linkedin.com/in/joshua-yewman/)
