@@ -5,7 +5,7 @@
 I'm a Computer Scientist / Information Security researcher. I studied Computer Science and then Information Security @ Royal Holloway, University of London.
 
 ### 🏢 Where do I work?
-I am a Security Architect @ Fujitsu UK.
+I am an Attack Surface Engineer @ OVO Energy.
 
 A lot of what I do is manage, research and collaborate, but I do also get my hands dirty and work on projects 🧑‍💻!
 
